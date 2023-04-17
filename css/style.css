@@ -39,3 +39,7 @@ nav ul li:hover {
   background: #ccc;
   transition: 0.3 ease-in-out;
 }
+main {
+  padding: 50px;
+  max-width: 1200px;
+}
